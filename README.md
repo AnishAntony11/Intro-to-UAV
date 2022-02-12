@@ -3,6 +3,6 @@
 
 youtube link: https://youtu.be/chXPLuYWLXA
 
-##Assignment_4 : OTA Flashing
+## Assignment_4 : OTA Flashing
 
-youtube link: 
+youtube link: https://youtu.be/5GS9dUcPBTQ
