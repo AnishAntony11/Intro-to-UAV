@@ -3,6 +3,10 @@
 
 youtube link: https://youtu.be/chXPLuYWLXA
 
+## Assignment_2 : UGV Triangle Path Tracing
+
+youtube link: https://youtu.be/TYqWNO6GE7o
+
 ## Assignment_3 : WiFi based UGV Operation
 
 youtube link: https://youtu.be/NmfuHf2LS_Q
