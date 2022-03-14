@@ -7,7 +7,7 @@ youtube link: https://youtu.be/chXPLuYWLXA
 
 youtube link: https://youtu.be/TYqWNO6GE7o
 
-[Tri_path.pdf](https://github.com/AnishAntony11/Intro-to-UAV/files/8245386/Tri_path.pdf)
+[Tri_path.pdf]: https://github.com/AnishAntony11/Intro-to-UAV/blob/main/ugv-Tra_Assignment2/Tri_path.pdf
 
 ## Assignment_3 : WiFi based UGV Operation
 
@@ -19,7 +19,7 @@ youtube link: https://youtu.be/xmwhZ34p8ks
 
 ## Assignment_5 : 3D Printing
 
-https://github.com/AnishAntony11/Intro-to-UAV/blob/main/3D-Print_Assignment5/3D-Print.jpeg
+file_path: https://github.com/AnishAntony11/Intro-to-UAV/blob/main/3D-Print_Assignment5/3D-Print.jpeg
 
 ## Assignment_7 : Web-App Bluetooth Controller
 
