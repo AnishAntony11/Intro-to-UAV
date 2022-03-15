@@ -23,7 +23,7 @@ file path: https://github.com/AnishAntony11/Intro-to-UAV/blob/main/3D-Print_Assi
 
 ## Assignment_6 :UGV Web-App-Controller
 
-youtube link: https://youtu.be/-YqSOB8SYQg
+youtube link: https://youtu.be/O3Q_8BXz4Jk
 
 ## Assignment_7 :UGV Web-App Bluetooth Controller
 
