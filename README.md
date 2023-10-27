@@ -21,9 +21,9 @@ youtube link: https://youtu.be/xmwhZ34p8ks
 
 file path: https://github.com/AnishAntony11/Intro-to-UAV/blob/main/3D-Print_Assignment5/3D-Print.jpeg
 
-## Assignment_6 :UGV Web-App-Controller
+## UGV Web-App-Controller
 
 youtube link: https://youtu.be/oiGcMQaWBLk
-## Assignment_7 :UGV Web-App Bluetooth Controller
+## UGV Web-App Bluetooth Controller
 
 youtube link: https://youtu.be/Yh3DBMbwU1k
